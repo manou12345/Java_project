@@ -1,5 +1,5 @@
 #Easy devops
-#Manu
+#Manu again
 # simple-java-maven-app
 
 This repository is for the
