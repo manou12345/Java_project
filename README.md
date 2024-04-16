@@ -1,6 +1,6 @@
 #Easy devops
 #Manu again
-#hi class
+#hi class j
 #Manu
 # simple-java-maven-app
 
